@@ -3,9 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujgarg&label=Profile%20views&color=0e75b6&style=flat" alt="tanujgarg" /> </p> -->
 
-<p align="left"> <a href="https://instagram.com/richardrobu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="richardrobu" /></a> </p>
-
-- 🌱 I’m currently learning **React Native, PHP**
+- 📚 I’m currently learning **React Native, PHP**
 
 - 💬 Ask me about **JavaScript, HTML/CSS, Angular, React Native**
 
