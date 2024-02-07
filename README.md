@@ -13,8 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/richardrobu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisistanujgarg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15477727" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13441523" height="30" width="40" /></a>
-<a href="https://fb.com/richard.robu7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisistanujgarg" height="30" width="40" /></a>
-<a href="https://instagram.com/richardrobu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisistanujgarg" height="30" width="40" /></a>
 <a href="https://wa.me/353876341760?text=Hello Richard, I found you on GitHub" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+919996629961" height="30" width="40" /></a>
 </p>
 
