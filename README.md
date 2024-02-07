@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **React Native, PHP**
 
-- 💬 Ask me about **JavaScript, HTML/CSS, Angular, React Native**
+- 💬 Ask me about **JavaScript, HTML/CSS, Angular, ElectronJS, React Native**
 
 - 📫 How to reach me **mailtorichard@devcentrehouse.eu** or WhatsApp me <a href="https://wa.me/353876341760?text=Hello Richard, I found you on GitHub">+353 (87) 634 1760</a>
 
