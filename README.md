@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujgarg&label=Profile%20views&color=0e75b6&style=flat" alt="tanujgarg" /> </p> -->
 
-- 📚 I’m currently learning **React Native, PHP**
+- 📚 I’m currently learning about **Vector Databases**
 
 - 💬 Ask me about **JavaScript, HTML/CSS, Angular, ElectronJS, React Native**
 
